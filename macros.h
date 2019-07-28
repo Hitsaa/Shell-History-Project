@@ -1,7 +1,7 @@
+#include <stddef.h>
+
 #ifndef MACROS_H
 #define MACROS_H
-
-#include <stddef.h>
 
 #define MAX_LINE 100 
 #define BUFFER_SIZE 80	
